@@ -10,14 +10,14 @@ System is deisgned based on Clean Artichitect and SQRS.
 ## Solution Structure
 
 Solution contains 4 projects
-Nova.DeptServiceAssesment.Database : database schema
-Nova.DeptServiceAssesment.Domain : business domain
-Nova.DeptServiceAssesment.Infrastructure : infrastructure
-Nova.DeptServiceAssesment.SpaWebApp : API and FE
+* Nova.DeptServiceAssesment.Database : database schema
+* Nova.DeptServiceAssesment.Domain : business domain
+* Nova.DeptServiceAssesment.Infrastructure : infrastructure
+* Nova.DeptServiceAssesment.SpaWebApp : API and FE
 
 ### Techniques
 
-Database : Entity Framework and SQL
-Front-End : ReactJS
-Backend : C#, Mediator, Dapper and ASP.NET Core API
+* Database : Entity Framework and SQL
+* Front-End : ReactJS
+* Backend : C#, Mediator, Dapper and ASP.NET Core API
 
