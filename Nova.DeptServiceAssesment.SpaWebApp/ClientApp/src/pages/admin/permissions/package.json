@@ -1,0 +1,7 @@
+{
+    "name": "Permissions",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./Permissions.js"
+  }
+  

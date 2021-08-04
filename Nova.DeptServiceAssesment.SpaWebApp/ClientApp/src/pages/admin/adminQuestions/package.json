@@ -1,0 +1,7 @@
+{
+    "name": "AdminQuestions",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AdminQuestions.js"
+  }
+  

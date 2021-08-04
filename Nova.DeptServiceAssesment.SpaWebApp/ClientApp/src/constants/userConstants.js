@@ -1,0 +1,4 @@
+export const userConstants = {
+    AUTHEN_SUCCESS: 'USERS_AUTHEN_SUCCESS',
+    AUTHEN_FAILURE: 'USERS_AUTHEN_FAILURE',
+};
